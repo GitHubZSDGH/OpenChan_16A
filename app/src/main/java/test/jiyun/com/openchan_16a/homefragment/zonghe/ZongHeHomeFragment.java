@@ -75,7 +75,7 @@ public class ZongHeHomeFragment extends BaseFragment {
         getLunbo();
         zixunPullview.addHeaderView(view1);
     }
-
+     //走吧走吧
     private void getRetro() {
         Map<String, String> map = new HashMap<>();
         map.put("catalog", "1");
